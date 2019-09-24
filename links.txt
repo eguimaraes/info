@@ -1,1 +1,3 @@
 Nano Server - https://infob.com.br/microsoft-nano-server-o-guia-completo/
+SPTIMER - http://adicodes.com/sharepoint-timer-service-not-starting-up/
+SharePoint Troubleshooting - https://docs.microsoft.com/en-us/previous-versions/office/sharepoint-server-2010/ee924649(v=office.14)
